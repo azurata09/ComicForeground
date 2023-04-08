@@ -1,0 +1,9 @@
+# Data files except gitkeep
+data/*
+!/data/.gitkeep
+
+# venv files
+.venv/
+
+# Jupyter Notebook temporary file
+.ipynb_checkpoints/
